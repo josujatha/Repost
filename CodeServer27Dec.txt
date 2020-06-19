@@ -1,0 +1,115 @@
+   {
+        "modificationDate": "2019-12-27T12:49:47Z",
+        "startDate": "2019-12-27T12:49:47Z",
+        "endDate": null,
+        "id": 279,
+        "baseUrl": "http://www.googletestcode.com",
+        "description": "Google test code"
+    },
+    {
+        "modificationDate": "2019-12-27T11:34:58Z",
+        "startDate": "2019-12-27T11:34:58Z",
+        "endDate": null,
+        "id": 277,
+        "baseUrl": "http://www.googletest.com",
+        "description": "Google test"
+    },
+
+280- deleted
+
+---
+277
+  "id": 532,
+    "externalId": "TSTPRJ",
+---
+
+{
+    "modificationDate": "2019-12-27T17:37:20Z",
+    "startDate": "2019-12-27T17:37:20Z",
+    "endDate": null,
+    "id": 532,
+    "externalId": "TSTPRJ",
+    "system": {
+        "modificationDate": "2019-12-27T11:34:58Z",
+        "startDate": "2019-12-27T11:34:58Z",
+        "endDate": null,
+        "id": 277,
+        "baseUrl": "http://www.googletest.com",
+        "description": "Google test"
+    },
+    "name": "Test Project",
+    "syncedOn": null,
+    "repositories": []
+}
+----
+277/533
+277/536
+277/535
+----
+279/534
+{
+    "modificationDate": "2019-12-27T17:45:47Z",
+    "startDate": "2019-12-27T17:45:47Z",
+    "endDate": null,
+    "id": 534,
+    "externalId": "TSTPRJCT",
+    "system": {
+        "modificationDate": "2019-12-27T12:49:47Z",
+        "startDate": "2019-12-27T12:49:47Z",
+        "endDate": null,
+        "id": 279,
+        "baseUrl": "http://www.googletestcode.com",
+        "description": "Google test code"
+    },
+    "name": "Test Project",
+    "syncedOn": null,
+    "repositories": []
+}
+------
+{
+    "id": 8328
+}
+277/533
+
+{
+  "externalId": "ISSUE1",
+  "type": "BUGFIX",
+  "status": "BACKLOG",
+  "title": "Issue Title 1",
+  "description": "Issue Description 1",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   
+ }
+--------
+{
+    "id": 8329
+}
+277/533
+{
+  "externalId": "ISSUE2",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 2",
+  "description": "Issue Description 2",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  } 
+-----
+{
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   
+------
