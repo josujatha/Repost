@@ -183,3 +183,82 @@
         "id": 1014,
         "contactEmail": "nicolasfontenele@gmail.com"
   }   
+{
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   {
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   {
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   {
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   {
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   {
+    "id": 8330
+}
+277/533
+{
+  "externalId": "ISSUE3",
+  "type": "BUGFIX",
+  "status": "INPROGRESS",
+  "title": "Issue Title 3",
+  "description": "Issue Description 3",
+  "creator": {
+        "id": 1014,
+        "contactEmail": "nicolasfontenele@gmail.com"
+  }   
